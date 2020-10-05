@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Claire 2.0",
+"dataUrl": "Jeu.data.unityweb",
+"wasmCodeUrl": "Jeu.wasm.code.unityweb",
+"wasmFrameworkUrl": "Jeu.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#30547F",
+"cacheControl": {"default": "must-revalidate"}
+}
